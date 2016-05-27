@@ -1,7 +1,7 @@
 # BunnyTheatre
 BunnyTheatre - Bunnies with Unity3D
 
-Download on http://bunny-bunnyandcloud.rhcloud.com/native
+Download on http://bunny-bunnyandcloud.rhcloud.com/native (or in the releases section of this repo)
 
 GUI
 
